@@ -18,34 +18,56 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+# Template
+# [[item]]
+#  organization = "University of Manchester Doctoral Academy"
+#  organization_url = ""
+#  title = "Winner: Best Contribution to Society"
+#  url = ""
+#  certificate_url = ""
+#  date_start = "2020-03-06"
+#  date_end = ""
+#  description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "University of Manchester Doctoral Academy"
+  title = "Winner: Best Contribution to Society"
+  date_start = "2020-03-06"
+  description = "Winner of the Best Contribution to Society award in the Doctoral Academy's Postgraduate Researcher Excellence Awards for my work with Patient and Public Involvement and open research"
+
+[[item]]
+  organization = "University of Manchester"
+  organization_url = ""
+  title = "Commended Award: Social Responsibility"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-17"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Received a Commended Award for the Making a Difference Awards for Social Responsibility for my commitment to open research"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Society for the Improvement of Psychological Science"
+  title = "Commendation: ReproducibiliTea"
+  url = "https://improvingpsych.org/mission/awards/"
+  date_start = "2020-01-01"
+  description = "Awarded to the founders Sophia Cruwell, Amy Orben, and Sam Parsons; additional members of the ReproducibiliTea organizing committee (Matt Jaquiery, Katie Drax, and Jade Pickering); and local journal club organisers"
+ 
+[[item]]
+  organization = "University of Lincoln SU"
+  title = "Gold Volunteering Award"
+  date_start = "2015-05-01"
+  description = "150+ hours of voluntary work with the British Heart Foundation and as treasurer of the University of Lincoln's archery society"
 
+[[item]]
+  organization = "University of Lincoln SU"
+  title = "The Lincoln Award"
+  date_start = "2015-05-01"
+  description = "Continued development of employability skills and enhanced involvement in subject-specifi activities"
+  
+[[item]]
+  organization = "University of Lincoln"
+  title = "School of Psychology Achievement Award"
+  date_start = "2013-11-01"
+  description = ""
+  
 +++
