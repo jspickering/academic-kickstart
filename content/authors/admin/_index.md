@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jade Pickering
+title: Jade S. Pickering
 
 # Username (this should match the folder name)
 authors:
