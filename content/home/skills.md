@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Cognitive neuropsychology"
+  description = ""
+  
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Patient and Public Involvement"
+  description = ""
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = ""  
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "osf"
+  icon_pack = "ai"
+  name = "Open Research"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "paperclip"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Evidence synthesis"
+  description = ""
 
 +++
