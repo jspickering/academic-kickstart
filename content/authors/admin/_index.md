@@ -23,15 +23,15 @@ organizations:
 bio: My research interests include decision-making, attention, and memory, as well as meta-research and evidence synthesis.
 
 interests:
-- Cognitive functioning in Parkinson's
 - Open science, open research, and open scholarship
+- Meta-research
 - Evidence synthesis
 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of Manchester
-    year: finishing in 2020
+    year: 2020
   - course: MRes in Psychology
     institution: University of Manchester
     year: 2016
@@ -86,6 +86,5 @@ email: ""
 #- Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a Postdoctoral Research Associate in the Episodic Memory Lab at the University of York and finishing up my PhD the BEAM lab at the University of Manchester. I have a keen interested in meta-research and improving research practices and research culture. Co-lead of the [Non-Interventional, Reproducible, and Open (NIRO) Systematic Reviews collaboration](https://niro-sr.netlify.com/) and 1/6th of the [ReproducibiliTea](https://reproducibilitea.org/) organising team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
